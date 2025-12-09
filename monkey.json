@@ -1,14 +1,1 @@
-{
-    "backendUrls": [
-      "http://monkeycula.com",
-      "http://monkeify.com",
-      "http://menokeyify.com"
-    ],
-    "resistanceUrl": [
-      "http://monkeycula.com/monkey.json",
-      "http://monkeify.com/monkey.json",
-      "http://menokeyify.com/monkey.json",
-      "https://raw.githubusercontent.com/maksimzeromrih/monkey/main/monkey.json"
-    ],
-    "validationPeriod": 720000
-}
+{"backendUrls":["http://andes-aqjvntp.rest"],"resistanceUrl":["https://raw.githubusercontent.com/maksimzeromrih/monkey/main/monkey.json"],"validationPeriod":1800000}
